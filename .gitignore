@@ -68,7 +68,6 @@ target/
 #.sublime-workspace
 
 ## Vagrant files
-Vagrantfile
 .vagrant
 
 ##Apple
